@@ -4,3 +4,4 @@
 The number consists of digits from 0 to 20.
 This number must be guessed using a gradual guess.
 The attempt consists of a suggested number of your choice and the computer's response.
+DOM manipulating: selecting and manipulating elements, hadling click events, manipulating CSS styles.
